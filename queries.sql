@@ -1,6 +1,8 @@
 -- Multi-Table Query Practice
 -- using sqllite for this
 -- Display the ProductName and CategoryName for all products in the database. Shows 77 records.
+SELECT ProductName,CategoryName
+FROM ProductDetails_V
 
 
 
